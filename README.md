@@ -14,7 +14,7 @@ IOS:
 2. apk update
 3. apk upgrade
 4. apk add git
-5. git clone https://github.com/Sos1ska/Spider-Breaking
+5. git clone https://github.com/Cool-Hackers/Spider-Breaking2.0
 6. sh ~/Spider-Breaking/Spider-Breaking2.0/Unix/install.sh
 7. spider
 
